@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Zarulizham\LaravelBackupMysql\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelBackupMysqlCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-backup-mysql';
 
     public $description = 'My command';
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Zarulizham\LaravelBackupMysql\Tests;
 
 class ExampleTest extends TestCase
 {
